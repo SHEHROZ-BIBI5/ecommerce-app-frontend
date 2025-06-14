@@ -20,7 +20,7 @@ A clean, responsive frontend for an ecommerce store.
 
 ## 🚀 Linkedin Link
 
-[👉 https://www.linkedin.com/in/shehroz-bibi-190582338/)
+[👉 https://www.linkedin.com/in/shehroz-bibi-190582338/recent-activity/all/)
 
 ---
 
