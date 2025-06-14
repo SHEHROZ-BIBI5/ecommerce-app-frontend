@@ -1,12 +1,35 @@
-# React + Vite
+ # 🛍️ Ecommerce App Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, responsive frontend for an ecommerce store.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+| Home Page | Oder page | Navbar  Page |
+|----------|--------------|-----------|
+| ![Home](https://github.com/SHEHROZ-BIBI5/ecommerce-app-frontend/blob/main/ecommerce-web.jpeg) | 
+![Oder-page](https://github.com/SHEHROZ-BIBI5/ecommerce-app-frontend/blob/main/ecommerce-pro-sec.jpeg) |
+![Navbar-page](https://github.com/SHEHROZ-BIBI5/ecommerce-app-frontend/blob/main/ecommerce-web-pro.jpeg) |
+![Navbar-page](https://github.com/SHEHROZ-BIBI5/ecommerce-app-frontend/blob/main/ecommerce-Screenshot.jpeg) |
+![Navbar-page](https://github.com/SHEHROZ-BIBI5/ecommerce-app-frontend/blob/main/ecommerce-web-project.jpeg) |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+
+## 🚀 Linkedin Link
+
+[👉 https://www.linkedin.com/in/shehroz-bibi-190582338/)
+
+---
+
+## 🧑‍💻 Built With
+
+- React.js ⚛️  
+- Tailwind CSS 💨  
+- Vite ⚡  
+
+---
+
+> 🌟 Made with passion by Shehroz Bibi — aiming to light a lamp in the dark.
